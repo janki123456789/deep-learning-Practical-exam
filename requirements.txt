@@ -1,0 +1,21 @@
+# Core data science
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep learning (ANN, CNN, RNN/LSTM) - Keras 3 is bundled with TensorFlow
+tensorflow>=2.16
+h5py
+
+# Image processing (OpenCV)
+opencv-python
+
+# Transformers (Hugging Face pipelines, tokenizers)
+transformers>=4.40
+torch
+
+# Notebook environment
+jupyter
+ipykernel
